@@ -14,12 +14,6 @@ I work full-time and spend my weekends learning Python through projects, problem
 
 ⭐ Python 3 Star
 
-## Projects
-
-- 📚 Library Management System
-- 🎬 Movie Watchlist App
-- 🌦️ AI Weather Assistant
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/eashwarraj-r-0496ab1b7
